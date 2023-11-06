@@ -1,0 +1,20 @@
+.quienes-somos-container {
+    background-color: #f9f2ed;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #5e371e(0, 0, 0, 0.849);
+    margin: 20px;
+  }
+  
+  .quienes-somos-container h2 {
+    font-size: 24px;
+    color: #5e371e;
+    margin-bottom: 10px;
+  }
+  
+  .quienes-somos-text {
+    font-size: 18px;
+    color: #7b7b7b;
+    margin-bottom: 20px;
+  }

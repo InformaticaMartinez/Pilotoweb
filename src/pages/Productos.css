@@ -1,0 +1,25 @@
+.productos-container {
+    background-color: beige; /* Fondo de color beige o el que desees */
+    padding: 20px; /* Espacio interior */
+  }
+  
+  .producto {
+    margin: 20px 0; /* Espacio entre los productos */
+    padding: 10px; /* Espacio interior de cada producto */
+    border: 1px solid #cccccc; /* Borde alrededor de cada producto */
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: rgb(223, 151, 100); /* Fondo de color blanco o el que desees */
+    box-shadow: 0 2px 4px rgba(110, 101, 101, 0.1); /* Sombra */
+  }
+  
+  .producto img {
+    max-width: 100%; /* Imágenes ajustadas al ancho del contenedor */
+  }
+  
+  .producto h3 {
+    color: chocolate; /* Color del título */
+  }
+  
+  .producto p {
+    color: #555; /* Color del texto */
+  }

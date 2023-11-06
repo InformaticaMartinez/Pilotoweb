@@ -1,0 +1,20 @@
+.navbar {
+  background-color: chocolate; /* Fondo de color chocolate */
+  padding: 10px 0; /* Espacio interior */
+}
+
+.nav-list {
+  list-style: none; /* Quita las viñetas de la lista */
+  display: flex; /* Establece la lista como una fila horizontal */
+  gap: 20px; /* Espacio entre elementos de la lista */
+}
+
+.nav-item a {
+  text-decoration: none; /* Quita la subrayado de los enlaces */
+  color: rgb(43, 36, 36); /* Color de texto blanco */
+  transition: color 0.3s; /* Transición de cambio de color durante 0.3 segundos */
+}
+
+.nav-item a:hover {
+  color: beige; /* Cambio de color al pasar el ratón por encima */
+}

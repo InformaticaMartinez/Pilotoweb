@@ -1,0 +1,56 @@
+.contacto-container {
+  background-color: #f9f2ed;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #5e371e(0, 0, 0, 0.849);
+    margin: 20px;
+  } 
+  
+  .contacto-form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    color: #6d461b; /* Un color chocolate oscuro */
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .btn-enviar {
+    background-color: #6d461b; /* Un color chocolate oscuro */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-enviar:hover {
+    background-color: #432a0f; /* Un tono más oscuro para el efecto hover */
+  }
+  h1 {
+    color:  #6d461b;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }

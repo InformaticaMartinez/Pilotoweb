@@ -1,0 +1,25 @@
+.inicio-container {
+    background-color: #f9f2ed;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .inicio-image {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .inicio-title {
+    font-size: 28px;
+    color: #5e371e;
+    margin: 10px 0;
+  }
+  
+  .inicio-text {
+    font-size: 18px;
+    color: #7b7b7b;
+    margin-bottom: 20px;
+  }
